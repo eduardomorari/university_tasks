@@ -1,0 +1,158 @@
+
+===== MENU =====
+1. Inserir no inicio
+2. Inserir no final
+3. Remover valor
+4. Tornar circular
+5. Desfazer circular
+6. Verificar circular
+7. Imprimir frente
+8. Imprimir reverso
+9. Imprimir circular (n elementos)
+10. Liberar lista
+0. Sair
+Opcao: Digite o valor a inserir no inicio: 10
+Valor inserido com sucesso.
+
+===== MENU =====
+1. Inserir no inicio
+2. Inserir no final
+3. Remover valor
+4. Tornar circular
+5. Desfazer circular
+6. Verificar circular
+7. Imprimir frente
+8. Imprimir reverso
+9. Imprimir circular (n elementos)
+10. Liberar lista
+0. Sair
+Opcao: Digite o valor a inserir no final: 20
+Valor inserido com sucesso.
+
+===== MENU =====
+1. Inserir no inicio
+2. Inserir no final
+3. Remover valor
+4. Tornar circular
+5. Desfazer circular
+6. Verificar circular
+7. Imprimir frente
+8. Imprimir reverso
+9. Imprimir circular (n elementos)
+10. Liberar lista
+0. Sair
+Opcao: Imprimindo frente: [ 10 20 ]
+
+===== MENU =====
+1. Inserir no inicio
+2. Inserir no final
+3. Remover valor
+4. Tornar circular
+5. Desfazer circular
+6. Verificar circular
+7. Imprimir frente
+8. Imprimir reverso
+9. Imprimir circular (n elementos)
+10. Liberar lista
+0. Sair
+Opcao: Imprimindo reverso: [ 20 10 ]
+
+===== MENU =====
+1. Inserir no inicio
+2. Inserir no final
+3. Remover valor
+4. Tornar circular
+5. Desfazer circular
+6. Verificar circular
+7. Imprimir frente
+8. Imprimir reverso
+9. Imprimir circular (n elementos)
+10. Liberar lista
+0. Sair
+Opcao: Lista convertida para circular.
+
+===== MENU =====
+1. Inserir no inicio
+2. Inserir no final
+3. Remover valor
+4. Tornar circular
+5. Desfazer circular
+6. Verificar circular
+7. Imprimir frente
+8. Imprimir reverso
+9. Imprimir circular (n elementos)
+10. Liberar lista
+0. Sair
+Opcao: Sim
+
+===== MENU =====
+1. Inserir no inicio
+2. Inserir no final
+3. Remover valor
+4. Tornar circular
+5. Desfazer circular
+6. Verificar circular
+7. Imprimir frente
+8. Imprimir reverso
+9. Imprimir circular (n elementos)
+10. Liberar lista
+0. Sair
+Opcao: Digite quantos elementos deseja imprimir: 5
+Imprimindo circularmente: [ 10 20 10 20 10 ]
+
+===== MENU =====
+1. Inserir no inicio
+2. Inserir no final
+3. Remover valor
+4. Tornar circular
+5. Desfazer circular
+6. Verificar circular
+7. Imprimir frente
+8. Imprimir reverso
+9. Imprimir circular (n elementos)
+10. Liberar lista
+0. Sair
+Opcao: Lista voltou para linear.
+
+===== MENU =====
+1. Inserir no inicio
+2. Inserir no final
+3. Remover valor
+4. Tornar circular
+5. Desfazer circular
+6. Verificar circular
+7. Imprimir frente
+8. Imprimir reverso
+9. Imprimir circular (n elementos)
+10. Liberar lista
+0. Sair
+Opcao: Digite o valor a remover: 10
+Valor removido com sucesso.
+
+===== MENU =====
+1. Inserir no inicio
+2. Inserir no final
+3. Remover valor
+4. Tornar circular
+5. Desfazer circular
+6. Verificar circular
+7. Imprimir frente
+8. Imprimir reverso
+9. Imprimir circular (n elementos)
+10. Liberar lista
+0. Sair
+Opcao: Imprimindo frente: [ 20 ]
+
+===== MENU =====
+1. Inserir no inicio
+2. Inserir no final
+3. Remover valor
+4. Tornar circular
+5. Desfazer circular
+6. Verificar circular
+7. Imprimir frente
+8. Imprimir reverso
+9. Imprimir circular (n elementos)
+10. Liberar lista
+0. Sair
+Opcao: Encerrando.
