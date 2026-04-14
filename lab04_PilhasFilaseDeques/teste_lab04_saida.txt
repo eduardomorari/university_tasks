@@ -1,0 +1,182 @@
+
+===== LABORATORIO 4 =====
+1. Testar Pilha
+2. Testar Fila
+0. Sair
+Opcao: 
+--- PILHA ---
+1. Push
+2. Pop
+3. Top
+4. Imprimir
+0. Voltar
+Opcao: [ ]
+
+--- PILHA ---
+1. Push
+2. Pop
+3. Top
+4. Imprimir
+0. Voltar
+Opcao: Pilha vazia.
+
+--- PILHA ---
+1. Push
+2. Pop
+3. Top
+4. Imprimir
+0. Voltar
+Opcao: Pilha vazia.
+
+--- PILHA ---
+1. Push
+2. Pop
+3. Top
+4. Imprimir
+0. Voltar
+Opcao: Valor: Inserido.
+
+--- PILHA ---
+1. Push
+2. Pop
+3. Top
+4. Imprimir
+0. Voltar
+Opcao: Valor: Inserido.
+
+--- PILHA ---
+1. Push
+2. Pop
+3. Top
+4. Imprimir
+0. Voltar
+Opcao: [ 20 10 ]
+
+--- PILHA ---
+1. Push
+2. Pop
+3. Top
+4. Imprimir
+0. Voltar
+Opcao: Topo = 20
+
+--- PILHA ---
+1. Push
+2. Pop
+3. Top
+4. Imprimir
+0. Voltar
+Opcao: Removido.
+
+--- PILHA ---
+1. Push
+2. Pop
+3. Top
+4. Imprimir
+0. Voltar
+Opcao: [ 10 ]
+
+--- PILHA ---
+1. Push
+2. Pop
+3. Top
+4. Imprimir
+0. Voltar
+Opcao: 
+===== LABORATORIO 4 =====
+1. Testar Pilha
+2. Testar Fila
+0. Sair
+Opcao: 
+--- FILA ---
+1. Enqueue
+2. Dequeue
+3. Front
+4. Imprimir
+0. Voltar
+Opcao: [ ]
+
+--- FILA ---
+1. Enqueue
+2. Dequeue
+3. Front
+4. Imprimir
+0. Voltar
+Opcao: Fila vazia.
+
+--- FILA ---
+1. Enqueue
+2. Dequeue
+3. Front
+4. Imprimir
+0. Voltar
+Opcao: Fila vazia.
+
+--- FILA ---
+1. Enqueue
+2. Dequeue
+3. Front
+4. Imprimir
+0. Voltar
+Opcao: Valor: Inserido.
+
+--- FILA ---
+1. Enqueue
+2. Dequeue
+3. Front
+4. Imprimir
+0. Voltar
+Opcao: Valor: Inserido.
+
+--- FILA ---
+1. Enqueue
+2. Dequeue
+3. Front
+4. Imprimir
+0. Voltar
+Opcao: Valor: Inserido.
+
+--- FILA ---
+1. Enqueue
+2. Dequeue
+3. Front
+4. Imprimir
+0. Voltar
+Opcao: [ 5 8 13 ]
+
+--- FILA ---
+1. Enqueue
+2. Dequeue
+3. Front
+4. Imprimir
+0. Voltar
+Opcao: Front = 5
+
+--- FILA ---
+1. Enqueue
+2. Dequeue
+3. Front
+4. Imprimir
+0. Voltar
+Opcao: Removido.
+
+--- FILA ---
+1. Enqueue
+2. Dequeue
+3. Front
+4. Imprimir
+0. Voltar
+Opcao: [ 8 13 ]
+
+--- FILA ---
+1. Enqueue
+2. Dequeue
+3. Front
+4. Imprimir
+0. Voltar
+Opcao: 
+===== LABORATORIO 4 =====
+1. Testar Pilha
+2. Testar Fila
+0. Sair
+Opcao: 
